@@ -1274,7 +1274,7 @@ h4 {
     width: 17rem;
     animation: movec 4s ease-in-out .3s infinite alternate;
     /* filter: blur(0px); */
-    filter: blur(200px);
+    filter: blur(100px);
     /* filter: blur(300); */
   }
 
@@ -1293,7 +1293,7 @@ h4 {
     border-radius: 788px;
     height: 17rem;
     width: 17rem;
-    filter: blur(200px);
+    filter: blur(100px);
     display: block;
     /* animation: movecm 3s ease-in-out .2s infinite alternate; */
     animation: movecm 4s ease-in-out .3s infinite alternate-reverse;
