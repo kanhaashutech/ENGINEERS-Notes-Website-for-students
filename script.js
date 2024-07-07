@@ -103,7 +103,7 @@ gsap.from(".notes .heading", {
     // markers: true,
     start: "top 80%",
     end: "top 100%",
-    scrub: 2
+    // scrub: 2
   }
 });
 

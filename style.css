@@ -74,6 +74,7 @@
 
 html {
   scroll-behavior: smooth;
+  /* overflow: hidden; */
 }
 
 body {
@@ -1269,9 +1270,10 @@ h4 {
   /* background circles */
   .notes .bg-circle {
     border-radius: 788px;
-    height: 25rem;
-    width: 25rem;
+    height: 17rem;
+    width: 17rem;
     animation: movec 4s ease-in-out .3s infinite alternate;
+    /* filter: blur(0px); */
     filter: blur(200px);
     /* filter: blur(300); */
   }
@@ -1281,7 +1283,7 @@ h4 {
       top: 0%;
     }
     to {
-      /* top: 0%; */
+      top: 0%;
       top: 105%;
     }
   }
@@ -1289,8 +1291,8 @@ h4 {
   /* background circles 2 in reverse */
   .notes .bg-circle-m {
     border-radius: 788px;
-    height: 25rem;
-    width: 25rem;
+    height: 17rem;
+    width: 17rem;
     filter: blur(200px);
     display: block;
     /* animation: movecm 3s ease-in-out .2s infinite alternate; */
