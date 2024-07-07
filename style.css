@@ -945,6 +945,10 @@ nav {
   padding: 0 0 .5rem;
   /* background-color: #350069; */
 }
+
+.notes .container .notes-container .box a{
+  text-decoration: none;
+}
 .notes .container .box {
   width: 16%;
   min-width: 13rem;
@@ -1095,6 +1099,7 @@ h4 {
   /* align-items: center; */
   flex-direction: column;
   border-top: 1px solid #fff;
+  text-decoration: none;
 }
 .shivani-cont .book .shivani-txt .sub-heading {
   color: #b5b5b5;

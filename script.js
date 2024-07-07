@@ -127,21 +127,22 @@ gsap.from(".notes .container1", {
 
 //  box in container 1
 
-tl2.from(".notes .container1 .notes-container .box", {
-  duration: 1,
-  y: 50,
-  delay: 0.2,
-  opacity: 0,
-  // stagger:.5,
-  scrollTrigger: {
-    trigger: ".container1 .notes-container .box",
-    scroller: "body",
     //   markers: true,
-    start: "top 65%",
-    end: "top 100%"
-    // scrub: 2,
-  }
-});
+// tl2.from(".notes .container1 .notes-container .box", {
+//   duration: 1,
+//   y: 50,
+//   delay: 0.2,
+//   opacity: 0,
+//   // stagger:.5,
+//   scrollTrigger: {
+//     trigger: ".container1 .notes-container .box",
+//     scroller: "body",
+//     //   markers: true,
+//     start: "top 65%",
+//     end: "top 100%"
+//     // scrub: 2,
+//   }
+// });
 
 // container 2
 gsap.from(".notes .container2", {
@@ -161,21 +162,21 @@ gsap.from(".notes .container2", {
 
 // box in container 2
 
-tl2.from(".notes .container2 .notes-container .box", {
-  duration: 1,
-  y: 50,
-  delay: 0.2,
-  opacity: 0,
-  // stagger:.5,
-  scrollTrigger: {
-    trigger: ".container2 .notes-container .box",
-    scroller: "body",
-    //   markers: true,
-    start: "top 65%",
-    end: "top 100%"
-    // scrub: 2,
-  }
-});
+// tl2.from(".notes .container2 .notes-container .box", {
+//   duration: 1,
+//   y: 50,
+//   delay: 0.2,
+//   opacity: 0,
+//   // stagger:.5,
+//   scrollTrigger: {
+//     trigger: ".container2 .notes-container .box",
+//     scroller: "body",
+//     //   markers: true,
+//     start: "top 65%",
+//     end: "top 100%"
+//     // scrub: 2,
+//   }
+// });
 
 // // container 3
 gsap.from(".notes .container3", {
@@ -195,21 +196,21 @@ gsap.from(".notes .container3", {
 
 // box in container 3
 
-tl2.from(".notes .container3 .notes-container .box", {
-  duration: 1,
-  y: 50,
-  delay: 0.2,
-  opacity: 0,
-  // stagger:.5,
-  scrollTrigger: {
-    trigger: ".container3 .notes-container .box",
-    scroller: "body",
-    //   markers: true,
-    start: "top 65%",
-    end: "top 100%"
-    // scrub: 2,
-  }
-});
+// tl2.from(".notes .container3 .notes-container .box", {
+//   duration: 1,
+//   y: 50,
+//   delay: 0.2,
+//   opacity: 0,
+//   // stagger:.5,
+//   scrollTrigger: {
+//     trigger: ".container3 .notes-container .box",
+//     scroller: "body",
+//     //   markers: true,
+//     start: "top 65%",
+//     end: "top 100%"
+//     // scrub: 2,
+//   }
+// });
 
 // container 4
 gsap.from(".notes .container4", {
@@ -229,21 +230,21 @@ gsap.from(".notes .container4", {
 
 // box in container 4
 
-tl2.from(".notes .container4 .notes-container .box", {
-  duration: 1,
-  y: 50,
-  delay: 0.2,
-  opacity: 0,
-  // stagger:.5,
-  scrollTrigger: {
-    trigger: ".container4 .notes-container .box",
-    scroller: "body",
-    //   markers: true,
-    start: "top 65%",
-    end: "top 100%"
-    // scrub: 2,
-  }
-});
+// tl2.from(".notes .container4 .notes-container .box", {
+//   duration: 1,
+//   y: 50,
+//   delay: 0.2,
+//   opacity: 0,
+//   // stagger:.5,
+//   scrollTrigger: {
+//     trigger: ".container4 .notes-container .box",
+//     scroller: "body",
+//     //   markers: true,
+//     start: "top 65%",
+//     end: "top 100%"
+//     // scrub: 2,
+//   }
+// });
 
 // // container 5
 gsap.from(".notes .container5", {
@@ -262,21 +263,21 @@ gsap.from(".notes .container5", {
 
 // box in container 5
 
-tl2.from(".notes .container5 .notes-container .box", {
-  duration: 1,
-  y: 50,
-  delay: 0.2,
-  opacity: 0,
-  // stagger:.5,
-  scrollTrigger: {
-    trigger: ".container5 .notes-container .box",
-    scroller: "body",
-    //   markers: true,
-    start: "top 65%",
-    end: "top 100%"
-    // scrub: 2,
-  }
-});
+// tl2.from(".notes .container5 .notes-container .box", {
+//   duration: 1,
+//   y: 50,
+//   delay: 0.2,
+//   opacity: 0,
+//   // stagger:.5,
+//   scrollTrigger: {
+//     trigger: ".container5 .notes-container .box",
+//     scroller: "body",
+//     //   markers: true,
+//     start: "top 65%",
+//     end: "top 100%"
+//     // scrub: 2,
+//   }
+// });
 
 //------------------  shivani section --------------------------
 
