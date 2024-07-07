@@ -127,7 +127,6 @@ gsap.from(".notes .container1", {
 
 //  box in container 1
 
-    //   markers: true,
 // tl2.from(".notes .container1 .notes-container .box", {
 //   duration: 1,
 //   y: 50,
