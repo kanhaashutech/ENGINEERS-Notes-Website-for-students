@@ -302,7 +302,7 @@ gsap.from(".shivani-pdf .shivani-cont .book", {
   y: 40,
   delay: 0.4,
   opacity: 0,
-  stagger: .1,
+//   stagger: .1,
   scrollTrigger: {
     trigger: ".shivani-pdf .shivani-cont ",
     scroller: "body",
