@@ -83,7 +83,7 @@ body {
   max-width: 1920px;
   background: linear-gradient(180deg, #18003f 0%, #000 100%);
   scroll-behavior: smooth;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 #main{
