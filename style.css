@@ -1513,7 +1513,7 @@ flex-direction: column;
   font-weight: 400;
 }
 .footer h3 span {
-  background: linear-gradient(91deg, #fff 3.67%, #fff 11.67%, #9000ff 95.79%);
+  background: linear-gradient(91deg, #f3e5ff 3.67%, #f5dbff 11.67%, #aa3bff 95.79%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
